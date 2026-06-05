@@ -1,0 +1,5 @@
+{
+  "extends": "../tsconfig.codegen.json",
+  "include": ["./**/*"],
+  "exclude": ["node_modules"]
+}

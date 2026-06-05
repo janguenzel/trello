@@ -1,0 +1,26 @@
+node_modules/
+dist/
+
+# Queue log files — contains pending job state, should not be committed
+.trello-queue/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Test coverage output
+coverage/
+
+# Temporary files (atomic-rename artifacts, codegen intermediates)
+**/*.tmp
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+*.swp
+*.swo
