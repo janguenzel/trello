@@ -4,7 +4,7 @@
 
 [![CI](https://github.com/janguenzel/trello/actions/workflows/ci.yml/badge.svg)](https://github.com/janguenzel/trello/actions/workflows/ci.yml)
 [![npm](https://img.shields.io/npm/v/@janguenzel/trello)](https://www.npmjs.com/package/@janguenzel/trello)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](/LICENSE)
 [![Trello REST API](https://img.shields.io/badge/Trello%20REST%20API-docs-blue)](https://developer.atlassian.com/cloud/trello/rest/api-group-actions/)
 [![GitHub Stars](https://img.shields.io/github/stars/janguenzel/trello)](https://github.com/janguenzel/trello)
 
